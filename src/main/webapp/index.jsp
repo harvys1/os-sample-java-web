@@ -6,6 +6,12 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="./style.css" >
   </head>
+
+
+
+
+
+
 <body>
   <header>
     <!-- Fixed navbar -->
@@ -30,10 +36,10 @@
   <!-- Begin page content -->
   <main role="main" class="container">
     <h1 class="mt-5">Hello K8S!!</h1>
-    <h3>Sample Web App</h3>
+    <h3>Sample Web App 2222</h3>
     <!-- Insertar imagen aqui -->
 
-
+    <img src="https://www.oclc.org/content/dam/support/ezproxy/documentation/images/starting_point_url.png"\>
   </main>
                 
   <footer class="footer">
